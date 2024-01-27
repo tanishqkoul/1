@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 61px;
+  padding-top: 51px;
   z-index: 2;
   margin: 0 10%;
 }
@@ -25,6 +25,10 @@
   display: flex;
   gap: 47px;
   list-style: none;
+}
+
+.menuBtn{
+  display: none;
 }
 
 .menuItems a {

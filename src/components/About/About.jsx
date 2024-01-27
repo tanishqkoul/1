@@ -5,7 +5,7 @@ import styles from "./About.module.css";
 
 export const About = () => {
   return (
-    <section className={styles.container} id ="about">
+    <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
@@ -41,6 +41,20 @@ export const About = () => {
               <p>
                 I have designed multiple landing pages and have created design
                 systems as well.
+              </p>
+            </div>
+          </li>
+          {/* Add information about your electrical engineering diploma */}
+          <li className={styles.aboutItem}>
+            <img
+              src={getImageUrl("about/uiIcon.png")}
+              alt="Electrical engineering icon"
+            />
+            <div className={styles.aboutItemsText}>
+              <h3>Electrical Engineering Diploma</h3>
+              <p>
+                I hold a three-year diploma in Electrical Engineering, equipping
+                me with a strong foundation in electrical systems and technology.
               </p>
             </div>
           </li>
