@@ -16,15 +16,27 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "JavaScript",
+      "imageSrc": "skills/JavaScript.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "Python",
+      "imageSrc": "skills/Python.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "React-Native",
+      "imageSrc": "skills/react-native.webp"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/Bootstrap.jpeg"
+    },
+    {
+      "title": "OOPS",
+      "imageSrc": "skills/download.jpeg"
     }
   ]

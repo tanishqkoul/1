@@ -2,25 +2,25 @@
     {
       "title": "Project A",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a project made to learn React by building a Portfolio website.",
+      "skills": ["React", "Figma", "CSS"],
+      "demo": "https://tanishqkoul.netlify.app",
+      "source": "https://github.com/tanishqkoul/Personal_portfolio_Tanishq"
     },
     {
       "title": "Project B",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "This is a project made to learn React-Native by building an App.",
+      "skills": ["React-Native", "CSS", "UI Design"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/tanishqkoul/PI360-Native-Application"
     },
     {
       "title": "Project C",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This is a project made to learn HTML,CSS by building a You-tube clone Page.",
+      "skills": ["HTML", "CSS"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/tanishqkoul/Youtube_clonepage_Tanishqkoul"
     }
   ]

@@ -29,7 +29,9 @@
   width: 100%;
   margin-top: 14px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
@@ -41,7 +43,12 @@
   border-radius: 100px;
   background: var(--color-dark);
   padding: 2px 22px;
+  width: 200px; /* Set a fixed width */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
+
 
 .links {
   width: 100%;
