@@ -65,7 +65,7 @@
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-timing-function:ease-in-out;
-  border-radius: 70px;
+  border-radius: 40px;
 }
 
 /* Floating animation keyframes */
